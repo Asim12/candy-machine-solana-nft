@@ -1,0 +1,25 @@
+{
+    "program": {
+        "candyMachine": "86JQkCVJF882et1raUif4g7Na8W1PTaV415D2eVhFikj",
+        "candyMachineCreator": "CE4uQmdj9Np5vwieM9k8dkLV9Hi7YF4rPmiYoFeLNxKq",
+        "collectionMint": ""
+    },
+    "items": {
+        "0": {
+            "name": "testing images",
+            "image_hash": "5e8276508ec9cdab095ba26e7e27bbb6f4c8fa97eb3cbcb346f04a0b3ca276c4",
+            "image_link": "https://arweave.net/8_xSYDxr2m2fIDLTTrdVWrnKqL1Gf_W4oA7u8x7M_GE",
+            "metadata_hash": "7466ab7cf30d0e76a0c07f699d96c4e811d347adba2dfe2d4551a31c44597720",
+            "metadata_link": "https://arweave.net/7GtVn1Yoxw2g0t0M-qSXfigeEWetmTZDgEcoHhYL23o",
+            "onChain": true
+        },
+        "1": {
+            "name": "testing images",
+            "image_hash": "e023eee96e54246277cfbe5c65e35d1e89ee6080e7fe8ae20e08bf7d68b1a30f",
+            "image_link": "https://arweave.net/6XCd-zDz4p6IRq5eMIiDuVWM5aaalODnwuvYWkMSe-0",
+            "metadata_hash": "94fec4502fff6321489b33ced1ce1c0d7ebdac221e8eba86992cd76a9efe87d3",
+            "metadata_link": "https://arweave.net/YCFeUPlx-CmaEvwOUJmxOKZlju5kXqFSyhjB64BbaI4",
+            "onChain": true
+        }
+    }
+}

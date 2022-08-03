@@ -1,0 +1,26 @@
+{
+  "price": 0.00,
+  "number": 777,
+  "symbol" : "HIV",
+  "gatekeeper": null,
+  "solTreasuryAccount": "GKJdEH7he6UVkUhkA3sc4iWiHunXfMbk1hWmbfghAvF1",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate":  "17 Jully 2022 21:00:00 PST",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode": "burnEveryTime",
+    "mint": "spltoken address",
+    "presale": false,
+    "discountPrice": 0.00
+ },
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "isMutable": true,
+  "creators" : {
+    "address" : "",
+    "share" : 100
+  }
+}
